@@ -1,0 +1,33 @@
+{
+  "name": "@pangoojs/vuepress-theme-pangoo",
+  "version": "0.0.0",
+  "description": "A theme based on Vuepress for HD UI.",
+  "keywords": [
+    "vue",
+    "vuepress",
+    "theme",
+    "pangoojs",
+    "pangoo"
+  ],
+  "homepage": "https://pangoojs.com",
+  "bugs": "https://github.com/pangoojs/pangoo/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pangoojs/pangoo.git",
+    "directory": "packages/@pangoojs/vuepress-theme-pangoo"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@vuepress/theme-default": "^1.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "authors": [
+    "Ying Wang <upcwangying@126.com> (https://github.com/upcwangying)"
+  ]
+}

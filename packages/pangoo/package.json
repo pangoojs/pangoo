@@ -1,0 +1,31 @@
+{
+  "name": "pangoo",
+  "version": "0.0.0",
+  "description": "A Component Library for Vue.js.",
+  "keywords": [
+    "pangoojs",
+    "pangoo"
+  ],
+  "homepage": "https://pangoojs.com",
+  "bugs": "https://github.com/pangoojs/pangoo/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pangoojs/pangoo.git",
+    "directory": "packages/pangoo"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "browserslist": [
+    "last 2 version",
+    "> 2%"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "authors": [
+    "Ying Wang <upcwangying@126.com> (https://github.com/upcwangying)"
+  ]
+}

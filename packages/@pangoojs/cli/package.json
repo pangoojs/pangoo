@@ -1,0 +1,28 @@
+{
+  "name": "@pangoojs/cli",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [
+    "pangoojs",
+    "pangoo",
+    "cli"
+  ],
+  "homepage": "https://pangoojs.com",
+  "bugs": "https://github.com/pangoojs/pangoo/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pangoojs/pangoo.git",
+    "directory": "packages/@pangoojs/cli"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "authors": [
+    "Ying Wang <upcwangying@gmail.com> (https://github.com/upcwangying)"
+  ]
+}
