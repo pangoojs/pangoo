@@ -1,6 +1,6 @@
 {
   "name": "@pangoojs/vuepress-theme-pangoo",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A theme based on Vuepress for HD UI.",
   "keywords": [
     "vue",
