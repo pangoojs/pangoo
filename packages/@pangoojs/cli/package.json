@@ -1,7 +1,7 @@
 {
   "name": "@pangoojs/cli",
   "version": "0.0.1",
-  "description": "",
+  "description": "A `cli` tool for quickly generating a Pangoo project",
   "keywords": [
     "pangoojs",
     "pangoo",

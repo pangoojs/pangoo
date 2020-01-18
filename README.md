@@ -1,4 +1,4 @@
-# HD UI
+# Pangoo
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/676f920d-6051-496d-8264-27e0e97ff7da/deploy-status)](https://app.netlify.com/sites/pangoo/deploys)
 [![Codecov](https://img.shields.io/codecov/c/gh/pangoojs/pangoo)](https://codecov.io/gh/pangoojs/pangoo)
@@ -7,11 +7,11 @@
 ![GitHub](https://img.shields.io/github/license/pangoojs/pangoo)
 ![GitHub contributors](https://img.shields.io/github/contributors/pangoojs/pangoo)
 
-[@pangoojs/cli](packages/@pangoojs/cli): A `cli` tool for quickly generating [pangoojs](https://pangoojs.com) projects.
+[@pangoojs/cli](packages/@pangoojs/cli): A `cli` tool for quickly generating [Pangoo](https://pangoojs.com) projects.
 
-[@pangoojs/eslint-config-pangoo](packages/@pangoojs/eslint-config-pangoo): A shareable configuration of [ESLint](https://eslint.org), used by [pangoojs](https://pangoojs.com).
+[@pangoojs/eslint-config-pangoo](packages/@pangoojs/eslint-config-pangoo): A shareable configuration of [ESLint](https://eslint.org), used by [Pangoo](https://pangoojs.com).
 
-[@pangoojs/vuepress-theme-pangoo](packages/@pangoojs/vuepress-theme-pangoo): A theme based on Vuepress for [pangoojs](https://pangoojs.com).
+[@pangoojs/vuepress-theme-pangoo](packages/@pangoojs/vuepress-theme-pangoo): A theme based on [Vuepress](https://vuepress.vuejs.org) for [Pangoo](https://pangoojs.com).
 
 [pangoo](packages/pangoo): .
 
@@ -34,7 +34,7 @@ These are the available packages in this repository.
 | [@pangoojs/cli](packages/@pangoojs/cli) | [![Npm](https://img.shields.io/npm/v/@pangoojs/cli)](https://www.npmjs.com/package/@pangoojs/cli) |
 | [@pangoojs/eslint-config-pangoo](packages/@pangoojs/eslint-config-pangoo) | [![Npm](https://img.shields.io/npm/v/@pangoojs/eslint-config-pangoo)](https://www.npmjs.com/package/@pangoojs/eslint-config-pangoo) |
 | [@pangoojs/vuepress-theme-pangoo](packages/@pangoojs/vuepress-theme-pangoo) | [![Npm](https://img.shields.io/npm/v/@pangoojs/vuepress-theme-pangoo)](https://www.npmjs.com/package/@pangoojs/vuepress-theme-pangoo) |
-| [pangoo](packages/pangoo) | [![Npm](https://img.shields.io/npm/v/pangoo)](https://www.npmjs.com/package/PANGOO) |
+| [pangoo](packages/pangoo) | [![Npm](https://img.shields.io/npm/v/pangoo)](https://www.npmjs.com/package/pangoo) |
 
 ## Contributors
 
