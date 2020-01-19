@@ -7,13 +7,13 @@
     "packages/docs"
   ],
   "scripts": {
-    "TEST": "JEST",
     "bootstrap": "lerna bootstrap",
     "build:docs": "yarn workspace docs build",
     "codecov": "codecov",
     "dev:docs": "yarn workspace docs dev",
     "precommit": "lint-staged",
-    "pub": "lerna publish from-git"
+    "pub": "lerna publish from-git",
+    "test": "jest"
   },
   "husky": {
     "hooks": {
